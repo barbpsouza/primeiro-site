@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FrontEnd</title>
+    <style>
+        #Atividade{
+            font-size: 16px
+            font-family: "Times";
+        }
+    </style>
+</head>
+<h2 style="color: gray;" id="intro"><center> Seja bem vindo ao</h2>
+<h1 style="text-align:center;" >CURSO PROGRAMA MAIS WEB</h1>
+
+<body>
+    <p0>Iremos juntos aprender a dar os primeiros passos no mundo
+        da programação WEB. A grade do curso está logo abaixo. 
+        Faça os exercícios, pesquise, pergunte e potencialize seus estudos.
+    </p0>
+    <h3>Introdução</h3>
+
+    <li>O que é <a href = "https://www.homehost.com.br/blog/tutoriais/o-que-e-html/" > HTML?</a></li>
+    
+
+    <li>O que é <a href = "https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css" >CSS?</a> </li>
+    
+
+    <li>O que é <a href ="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">Java Script?</a></li>
+    
+
+    <h3>Básico</h3>
+    <ol><p1>1. Como criar um site? </p1></ol>
+    <ol><p2>2. Quais programas posso usar para criar um site?</p2>
+        <ul>
+        <li>Bloco de notas</li>
+        <li>Notepad++</li>
+        <li>Sublime Text 3</li>
+        <li>VS Code</li></ol>
+        </ul>
+
+    <ol><p3>3. Meu primeiro programa.</p3></ol>
+    
+</body>
+</html>
